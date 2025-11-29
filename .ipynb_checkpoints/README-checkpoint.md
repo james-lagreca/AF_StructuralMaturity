@@ -6,7 +6,9 @@ https://doi.org/10.1029/2025JB031578
 
 
 
-There are two main codes here to calculate fault zone width and fault trace corrugation for either distributed traces or principal fault traces. It includes the input shapefiles, and outputs. 
+
+
+There are two main codes here to calculate fault zone width for either distributed traces, and/or principal fault traces. It includes the input shapefiles, and outputs. 
 
 
 
